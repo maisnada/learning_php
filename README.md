@@ -7,3 +7,8 @@ References:
 - [PHP Oficial documentation](https://www.php.net/manual/en/)
 - [Roadmap.sh fo PHP](https://roadmap.sh/php)
 - [Building application web with php - University of Michigan](https://www.coursera.org/learn/web-applications-php)
+
+** Book: Programming PHP 4td Edition - O'Reilly Kevin Tatroe and Peter MacIntyre
+
+** Chapter 1 - Introduction to php
+** Chapter 2 - Language basics
